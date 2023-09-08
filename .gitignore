@@ -4,3 +4,6 @@ z*
 
 # User-specific files - Ignore all files ending in ".env"
 *.env
+
+# User-specific files - Ignore folders
+artifacts/
