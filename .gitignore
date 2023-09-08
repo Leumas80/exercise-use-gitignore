@@ -1,2 +1,6 @@
 node_modules/
+# User-specific files - Ignore all files starting with "z*"
 z*
+
+# User-specific files - Ignore all files ending in ".env"
+*.env
